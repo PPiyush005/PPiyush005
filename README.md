@@ -10,9 +10,11 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
 ## 🚀 About Me
+
+<table>
+<tr>
+<td valign="top" width="62%">
 
 ```java
 @Component
@@ -25,8 +27,8 @@ public class PiyushParashar {
 
     public String[] currentlyBuilding() {
         return new String[]{
-            "Gatherly  — Smart Meetup Finder (Haversine + Overpass API)",
-            "TourSaarthi — AI Travel Companion (Spring Boot + Gemini API)"
+            "Gatherly — Smart Meetup Finder",
+            "TourSaarthi — AI Travel Companion"
         };
     }
 
@@ -39,12 +41,20 @@ public class PiyushParashar {
     }
 
     public String funFact() {
-        return "I organize tech events AND build the API behind them 🛠️";
+        return "I organize tech events AND"
+             + " build the API behind them 🛠️";
     }
 }
 ```
 
-<br clear="right"/>
+</td>
+<td valign="middle" width="38%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="280" alt="Coding GIF"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
