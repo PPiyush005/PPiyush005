@@ -1,51 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Piyush%20Parashar&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot&descAlignY=55&descColor=a0a0b0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Piyush%20Parashar&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=40&desc=⚡%20Backend%20Developer%20%7C%20Java%2021%20%7C%20Spring%20Boot%203&descAlignY=60&descColor=a0d8ef&descSize=20" width="100%" />
 
-</div>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  > Initializing developer profile...                         ║
-║  > Loading: Java 21 + Spring Boot 3 + MySQL + JWT           ║
-║  > Status: Building scalable backends, one API at a time    ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Backend+SDE+%7C+Java+21+%2B+Spring+Boot+3;Building+Scalable+REST+APIs+%F0%9F%9A%80;KIIT+University+%7C+B.Tech+CSE+%272028;Open+to+Backend+Internships+%F0%9F%91%8B" alt="Typing SVG" />
+</a>
 
 </div>
 
 <br/>
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## 🚀 About Me
 
 ```java
 @Component
 public class PiyushParashar {
-    
-    private final String role = "Backend Developer";
+
+    private final String role       = "Backend Developer";
     private final String university = "KIIT University (2024–2028)";
-    private final String year = "Pre-Final Year B.Tech CSE";
-    
+    private final String year       = "Pre-Final Year B.Tech CSE";
+    private final String location   = "Patna, Bihar 🇮🇳";
+
     public String[] currentlyBuilding() {
-        return new String[] {
-            "Gatherly — Smart Meetup Finder (Haversine Algorithm)",
-            "TourSaarthi — AI Travel Companion (Gemini API)"
+        return new String[]{
+            "Gatherly  — Smart Meetup Finder (Haversine + Overpass API)",
+            "TourSaarthi — AI Travel Companion (Spring Boot + Gemini API)"
         };
     }
-    
-    public String[] lookingFor() {
-        return new String[] {
+
+    public String[] openTo() {
+        return new String[]{
             "Backend SDE Internships",
+            "Junior Backend Developer Roles",
             "Open Source Collaborations"
         };
     }
-    
+
     public String funFact() {
-        return "I organize tech events AND write APIs for them 🛠️";
+        return "I organize tech events AND build the API behind them 🛠️";
     }
 }
 ```
@@ -54,33 +48,33 @@ public class PiyushParashar {
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Backend
+### ⚙️ Backend Core
 ![Java](https://img.shields.io/badge/Java_21-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-### Database & Cloud
+### 🗄️ Database & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-%230B0D0E.svg?style=for-the-badge&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Frontend
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React_18-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-### Tools & Others
+### 🔧 Tools & Environment
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 </div>
 
@@ -99,12 +93,13 @@ public class PiyushParashar {
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Railway](https://img.shields.io/badge/Deployed-Railway-purple?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Live](https://img.shields.io/badge/🚀_Live-Railway+Vercel-blueviolet?style=flat-square)
 
-- 📚 248+ curated DSA problems across 10 categories
+- 📚 **248+ DSA problems** across 10 topic categories
 - 🔥 Streak tracking & user progress system
-- 🔐 JWT-based auth with role management
-- 🚀 **Live on Railway + Vercel**
+- 🔐 JWT auth with role-based access control
+- 🌐 Fully deployed — Railway backend + Vercel frontend
 
 </td>
 <td width="50%" valign="top">
@@ -114,42 +109,44 @@ public class PiyushParashar {
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Security](https://img.shields.io/badge/CVE_Patched-FF0000?style=flat-square)
+![CVE](https://img.shields.io/badge/🛡️_CVE--2024--31033_Patched-red?style=flat-square)
 
-- ⚙️ 15+ modules covering full society ops
-- 👥 4 JWT role types (Admin, Guard, Resident, Staff)
-- 🛡️ JWT patched for CVE-2024-31033
-- 📋 Clean RESTful architecture
+- ⚙️ **15+ modules** for complete society management
+- 👥 **4 JWT role types**: Admin, Guard, Resident, Staff
+- 🛡️ Security-hardened — patched CVE-2024-31033
+- 📋 Production-grade RESTful architecture
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📍 [Gatherly](https://github.com/PPiyush005/Gatherly) *(In Progress)*
+### 📍 [Gatherly](https://github.com/PPiyush005/Gatherly) &nbsp;`In Progress`
 > **Smart Meetup Finder**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React Leaflet](https://img.shields.io/badge/React_Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![Overpass](https://img.shields.io/badge/Overpass_API-7EBC6F?style=flat-square)
 
-- 🗺️ Haversine algorithm for geographic midpoints
-- 🍕 Overpass API for venue discovery
-- 🗺️ Interactive maps with React Leaflet
-- 📡 Location-aware recommendation engine
+- 📐 **Haversine algorithm** for geo-midpoint calculation
+- 🗺️ Interactive maps via React Leaflet
+- 🍕 Venue discovery with Overpass API
+- 📡 Location-aware smart recommendation engine
 
 </td>
 <td width="50%" valign="top">
 
-### ✈️ TourSaarthi *(Planned)*
+### ✈️ TourSaarthi &nbsp;`Planned`
 > **AI-Powered Travel Companion**
 
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native_Expo-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-- 🤖 Gemini API for smart travel planning
-- 📱 React Native + Expo mobile app
-- 🗺️ Personalized itinerary generation
-- 🔗 Spring Boot backend
+- 🤖 Gemini API for AI-powered itinerary generation
+- 📱 React Native + Expo cross-platform mobile app
+- 🗺️ Personalized travel planning & recommendations
+- 🔗 Spring Boot microservice backend
 
 </td>
 </tr>
@@ -163,12 +160,13 @@ public class PiyushParashar {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PPiyush005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPiyush005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PPiyush005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PPiyush005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="170"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=PPiyush005&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=PPiyush005&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff" height="170"/>
 
 </div>
 
@@ -178,7 +176,17 @@ public class PiyushParashar {
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=PPiyush005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=PPiyush005&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=6" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PPiyush005&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ff6b35&area=true&hide_border=true&theme=react-dark" width="95%"/>
 
 </div>
 
@@ -187,10 +195,10 @@ public class PiyushParashar {
 ## 🎯 Currently Focused On
 
 ```
-📌  Building Gatherly — full-stack smart meetup finder
-📌  Strengthening DSA (targeting SDE roles)
-📌  Planning TourSaarthi with Gemini AI + React Native
-📌  Contributing to open source Spring Boot ecosystem
+🔨  Finishing Gatherly — full-stack smart meetup finder
+📐  Strengthening DSA for SDE internship interviews
+🤖  Planning TourSaarthi with Gemini AI + React Native + Expo
+🌱  Contributing to open-source Spring Boot projects
 ```
 
 ---
@@ -212,10 +220,10 @@ public class PiyushParashar {
 
 <div align="center">
 
-| Role | Organization |
-|------|-------------|
+| 🏅 Role | 🏢 Organization |
+|:--------|:---------------|
 | 🧠 Member | AlgoZenith KIIT Chapter |
-| 🤝 Member | AISOC (AI Student Community) |
+| 🤝 Member | AISOC — AI Student Community |
 | 🎯 Organizing Committee | Dark Route Season 1 |
 
 </div>
@@ -230,10 +238,10 @@ public class PiyushParashar {
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=PPiyush005&icon=6&color=6)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=PPiyush005&label=Profile%20Views&color=00d4ff&style=flat-square" alt="Profile Views" />
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling" width="100%"/>
 
 </div>
