@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Piyush%20Parashar&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=40&desc=⚡%20Backend%20Developer%20%7C%20Java%2021%20%7C%20Spring%20Boot%203&descAlignY=60&descColor=a0d8ef&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Piyush%20Parashar&fontSize=56&fontColor=fff&animation=twinkling&fontAlignY=40&desc=⚡%20Aspiring%20Backend%20Developer%20%7C%20Java%2021%20%7C%20Spring%20Boot%203&descAlignY=60&descColor=a0d8ef&descSize=20" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Backend+SDE+%7C+Java+21+%2B+Spring+Boot+3;Building+Scalable+REST+APIs+%F0%9F%9A%80;KIIT+University+%7C+B.Tech+CSE+%272028;Open+to+Backend+Internships+%F0%9F%91%8B" alt="Typing SVG" />
@@ -23,7 +23,7 @@ public class PiyushParashar {
     private final String role       = "Backend Developer";
     private final String university = "KIIT University (2024–2028)";
     private final String year       = "Pre-Final Year B.Tech CSE";
-    private final String location   = "Patna, Bihar 🇮🇳";
+    private final String location   = "Muzaffarpur, Bihar 🇮🇳";
 
     public String[] currentlyBuilding() {
         return new String[]{
